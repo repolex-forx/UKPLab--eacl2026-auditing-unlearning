@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/eacl2026-auditing-unlearning/commit/eba33614120a8e82ef4236fd19bf436f41250f28",
       "git:hexsha": "eba33614120a8e82ef4236fd19bf436f41250f28",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
