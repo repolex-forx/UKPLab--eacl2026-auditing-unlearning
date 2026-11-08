@@ -1,0 +1,11 @@
+{
+  "org": "UKPLab",
+  "repo": "eacl2026-auditing-unlearning",
+  "versions": [
+    {
+      "commit": "eba33614120a8e82ef4236fd19bf436f41250f28",
+      "tag": "",
+      "parsed_at": "2026-11-08T18:32:06.448980+00:00"
+    }
+  ]
+}
